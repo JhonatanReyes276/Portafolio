@@ -1,0 +1,8 @@
+:root {
+    --azul: #1B4EA6;
+}
+
+body {
+    background-color: var(--azul);
+    color: #F3F6FF;
+}
